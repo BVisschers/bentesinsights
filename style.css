@@ -116,6 +116,10 @@ section.lettertype_openingstijden {
     font-size: 14px;
 }
 
+section.contactpagina p {
+    margin-top: 1em;
+}
+
 article.blauwe_achtergrond h2 {
     padding-bottom: 1em;
 }
