@@ -90,7 +90,7 @@ img {
 }
 
 section.logo img {
-    width: 6em;
+    width: 7em;
     padding-top: 2em;
     padding-left: 2em;
 }
@@ -251,7 +251,7 @@ footer img {
 
 section.contactpagina img {
     animation-name: slideInLeft;
-    animation-duration: 11s;
+    animation-duration: 9s;
     animation-timing-function: ease-in;
     animation-delay: 0s;
 }
