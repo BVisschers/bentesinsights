@@ -240,7 +240,7 @@ footer img {
   }
 
 @keyframes slideInLeft {
-    from{
+    from {
         transform: translate(-200%);
     }
 
@@ -249,7 +249,7 @@ footer img {
     }
 }
 
-section.contactpagina img{
+section.contactpagina img {
     animation-name: slideInLeft;
     animation-duration: 11s;
     animation-timing-function: ease-in;
