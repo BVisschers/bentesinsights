@@ -251,9 +251,9 @@ footer img {
 
 section.contactpagina img {
     animation-name: slideInLeft;
-    animation-duration: 7s;
+    animation-duration: 2s;
     animation-timing-function: ease-in;
-    animation-delay: 0s;
+    animation-delay: 9s;
 }
 
 footer {
