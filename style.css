@@ -190,6 +190,10 @@ article section.contactpagina {
     padding-top: 1em;
 }
 
+.contactpagina a{
+    padding: 0.5em;
+}
+
 article section.contactpagina img {
     width: 20%;
     height: 15%;
